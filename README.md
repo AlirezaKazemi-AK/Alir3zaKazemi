@@ -1,33 +1,71 @@
-
-<!-- HI text -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Alireza!;A+Frontend+Developer+Who+Loves+Coding+:);&font=Fira%30Code&center=true&width=800&height=100&duration=4500&pause=1200&color=33e91b">
-</p>
-
-<h2 align="center">Github stats :</h2>
-<br>
-
-<div style="float:center" align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alir3zaKazemi&theme=dark)](https://git.io/streak-stats)
-[![Alireza's github stats](https://github-readme-stats.vercel.app/api?username=Alir3zaKazemi&show_icons=true&title_color=07c517e0&icon_color=e49a12e0&text_color=ffffff94&bg_color=151515&count_private=true)](https://github.com/Alir3zaKazemi)
+<div align="center">
+  <h1>👋 Hi, I'm Alireza Kazemi</h1>
+  <p><strong>Frontend Developer</strong> passionate about building interactive, responsive, and modern web experiences.</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=AlirezaKazemi-AK&style=flat-square&color=blue" alt="Profile Views" />
+  </p>
 </div>
-<br>
-<br>
-<br>
-<h2 align="center">Contact :</h2>
-<!-- Social icons section -->
-<br>
-<p align="center">
-  <a href="https://t.me/TheSeverusMoriarty"><img width="39px" alt="Telegram" title="Telegram" src="https://i.imgur.com/FrPohCq.png"/></a>
-  &#8287;&#8287;
-  <a href="https://chatwith.io/s/alireza-2"><img width="39px" alt="Whatsapp" title="Whatsapp" src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png"/></a>
-  &#8287;&#8287;
-  <a href="https://twitter.com/AlirezaKzemi18?s=09"><img width="39px" alt="Twitter" title="Twitter" src="https://icon-library.com/images/twitter-circle-icon-png/twitter-circle-icon-png-13.jpg"/></a>
-  &#8287;&#8287;
-  <a href="https://alireza2212kazemi@gmail.com"><img width="39px" alt="Gmail" title="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icons-png-vector-icons-and-png-backgrounds-18.png"></a>
-  &#8287;&#8287;
-  <a href="https://www.linkedin.com/in/alireza-kazemi-2a03381b8"><img width="39px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png"/></a>
-  &#8287;&#8287;
-  <a href="https://github.com/Alir3zaKazemi"><img width="39px" alt="Github" title="Github" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png"/></a>
-</p>
+
+---
+
+## 🚀 About Me
+
+- 🌐 Frontend Developer focused on clean UI & UX
+- 💡 I love turning design ideas into real, responsive apps
+- 👨‍💻 Currently building web apps using **HTML, CSS, JavaScript, React & TypeScript**
+- ✨ Always learning new frameworks and modern frontend solutions
+
+---
+
+## 🛠️ Skills
+
+### 💻 Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+Here are some of my highlighted frontend projects (click to open 👇):
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[shopsy-Ecommerce](https://github.com/AlirezaKazemi-AK/shopsy-Ecommerce)** | A responsive e-commerce frontend | React, CSS |
+| **[redux-TK-warmup](https://github.com/AlirezaKazemi-AK/redux-TK-warmup)** | Starter with Redux Toolkit practices | Redux, React |
+| **[artistic-login-page](https://github.com/AlirezaKazemi-AK/artistic-login-page)** | Stylish login UI page | HTML, CSS |
+| **[enver-responsive-landing](https://github.com/AlirezaKazemi-AK/enver-responsive-landing)** | Responsive landing UI | CSS, HTML |
+| **[weather-card](https://github.com/AlirezaKazemi-AK/weather-card)** | Weather app UI | HTML, JS |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaKazemi-AK&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaKazemi-AK&theme=tokyonight" alt="Streak Stats" />
+</div>
+
+---
+
+## 📫 Let’s Connect
+
+<div align="center">
+  <a href="mailto:alireza2212kazemi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alirezakazemi-ak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AlirezaKazemi-AK"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <em>“Code is like humor — when you have to explain it, it’s bad.” — Cory House</em>
+</div>
+
