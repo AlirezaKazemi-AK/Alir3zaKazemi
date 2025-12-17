@@ -1,10 +1,6 @@
-<div align="center">
-  <h1>👋 Hi, I'm Alireza Kazemi</h1>
-  <p><strong>Frontend Developer</strong> passionate about building interactive, responsive, and modern web experiences.</p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AlirezaKazemi-AK&style=flat-square&color=blue" alt="Profile Views" />
-  </p>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Alireza!;A+Frontend+Developer+Who+Loves+Coding+:);&font=Fira%30Code&center=true&width=800&height=100&duration=4500&pause=1200&color=33e91b">
+</p>
 
 ---
 
@@ -19,38 +15,14 @@
 
 ## 🛠️ Skills
 
-### 💻 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-Here are some of my highlighted frontend projects (click to open 👇):
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[shopsy-Ecommerce](https://github.com/AlirezaKazemi-AK/shopsy-Ecommerce)** | A responsive e-commerce frontend | React, CSS |
-| **[redux-TK-warmup](https://github.com/AlirezaKazemi-AK/redux-TK-warmup)** | Starter with Redux Toolkit practices | Redux, React |
-| **[artistic-login-page](https://github.com/AlirezaKazemi-AK/artistic-login-page)** | Stylish login UI page | HTML, CSS |
-| **[enver-responsive-landing](https://github.com/AlirezaKazemi-AK/enver-responsive-landing)** | Responsive landing UI | CSS, HTML |
-| **[weather-card](https://github.com/AlirezaKazemi-AK/weather-card)** | Weather app UI | HTML, JS |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlirezaKazemi-AK&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlirezaKazemi-AK&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 ---
